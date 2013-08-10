@@ -6,6 +6,11 @@ def run():
     for i in str:
         print i
     return i
+#add another routine
+    str = "Another line"
+    for i in str:
+        print i
+    return i
 
 #This is just for you to see what happens when the function is called
 run()
