@@ -6,8 +6,6 @@ def run():
     for i in str:
         print i
     return i
-#link to the link file  print_str linked file.py
-
 #add another routine
     str = "Another line"
     for i in str:
