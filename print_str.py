@@ -7,6 +7,7 @@ def run():
         print i
     return i
 #link to the link file  print_str linked file.py
+#  change this file but not the link file
 
 #add another routine
     str = "Another line"
